@@ -44,8 +44,8 @@ Always exploring ways to improve user experience, accessibility, and developer p
 
 💼 [LinkedIn](https://www.linkedin.com/in/ramya-latha/)  
 🐙 [GitHub](https://github.com/Ramya595)  
-📧 [your.email@example.com](mailto:ramyalatha595@gmail.com)  
-📄 [Resume](https://your-resume-link)  
+📧 [ramyalatha595@gmail.com](mailto:ramyalatha595@gmail.com)  
+📄 [Portfolio](https://your-resume-link)  
 
 ---
 
