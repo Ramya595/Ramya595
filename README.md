@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Ramya  
 ### 🚀 Full Stack Engineer | React • Next.js • Node.js • Python (FastAPI)  
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Ramya595)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya-latha/)  
-📧 **Email:** ramyalatha595@gmail.com 
-📄 [**Resume**](https://your-resume-link)  
-
 ---
 
 ## 💡 About Me  
