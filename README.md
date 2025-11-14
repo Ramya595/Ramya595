@@ -7,7 +7,6 @@
 
 I’m a **Full Stack Engineer** passionate about building fast, scalable, and user-centric web applications.  
 Over the past few years, I’ve designed and developed modern applications using **React**, **Next.js**, **Node.js**, and **Python (FastAPI)** — from crafting component-driven frontends to designing efficient backend microservices.  
-
 I love working on performance optimization, clean architecture, CI/CD automation, and cloud deployment.  
 Always exploring ways to improve user experience, accessibility, and developer productivity.  
 
