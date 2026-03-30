@@ -1,41 +1,42 @@
 # 👋 Hi, I'm Ramya  
-### 🚀 Full Stack Engineer | React • Next.js • Node.js • Python (FastAPI)  
+### 🚀 Full Stack Developer | React • JavaScript • Python (FastAPI)  
 
 ---
 
 ## 💡 About Me  
 
-I’m a **Full Stack Engineer** passionate about building fast, scalable, and user-centric web applications.  
-Over the past few years, I’ve designed and developed modern applications using **React**, **Next.js**, **Node.js**, and **Python (FastAPI)** — from crafting component-driven frontends to designing efficient backend microservices.  
-I love working on performance optimization, clean architecture, CI/CD automation, and cloud deployment.  
-Always exploring ways to improve user experience, accessibility, and developer productivity.  
+I’m a **Full Stack Developer** with hands-on experience in building modern, scalable web applications across both frontend and backend.  
+I have worked with **React (JavaScript/TypeScript)** for creating responsive user interfaces and **Python (FastAPI)** for developing efficient backend services.  
+I enjoy transforming ideas into real-world applications by focusing on clean code, reusable components, and practical system design.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Frontend:** React, Next.js, TypeScript, Redux, Tailwind CSS, Material-UI  
-**Backend:** Node.js, Express, Python (FastAPI)  
-**Database:** PostgreSQL, MySQL, MongoDB  
-**DevOps:** Docker, CI/CD (GitHub Actions, GitLab CI), AWS, Vercel  
-**Testing:** Jest, Cypress, Pytest  
-**Tools:** Git, Jira, Figma, WebSockets, Agile/Scrum  
+**Frontend:** React, JavaScript, TypeScript, Redux, HTML5, CSS3, Tailwind CSS, Material-UI, Figma  
+**Backend:** Python, FastAPI, RESTful APIs  
+**Database:** MySQL, PostgreSQL  
+**Testing:** Jest, React Testing Library, Pytest  
+**DevOps & Cloud:** Docker, Git, GitHub, GitHub Actions (CI/CD), AWS (EC2, S3), Vercel  
 
 ---
 
-## 🚀 What I’m Working On  
+## 🚀 What I’ve Worked On  
 
-- Building **end-to-end scalable apps** using React + FastAPI  
-- Writing **tech articles** on frontend performance & clean code  
-- Enhancing my **Next.js + DevOps workflow** for faster delivery  
+- Developed **full-stack web applications** using React and FastAPI  
+- Built **responsive and reusable UI components** with modern frontend tools  
+- Designed and implemented **RESTful APIs** for real-world use cases  
+- Worked with **relational databases** and optimized queries  
+- Applied **basic testing practices** for both frontend and backend  
+- Explored **deployment workflows** using Docker and cloud platforms  
 
 ---
 
 ## 🌱 I’m Currently Learning  
 
-- Advanced **system design and microservices architecture**  
-- **Cloud infrastructure** with AWS and container orchestration  
-- Improving accessibility (a11y) and testing best practices  
+- Improving **advanced backend architecture and API design**  
+- Strengthening **frontend performance and scalability techniques**  
+- Learning deeper concepts in **DevOps and cloud deployment**  
 
 ---
 
@@ -43,9 +44,10 @@ Always exploring ways to improve user experience, accessibility, and developer p
 
 💼 [LinkedIn](https://www.linkedin.com/in/ramya-latha/)  
 🐙 [GitHub](https://github.com/Ramya595)  
-📧 [ramyalatha595@gmail.com](mailto:ramyalatha595@gmail.com)  
+📧 [Email](mailto:ramyalatha595@gmail.com)  
 📄 [Portfolio](https://ramya-latha.vercel.app/)  
 
 ---
 
-⭐ *“Building digital experiences that are clean, performant, and scalable.”*
+⭐ *“Focused on building clean, efficient, and user-friendly web applications.”*  
+
